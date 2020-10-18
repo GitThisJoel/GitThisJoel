@@ -5,6 +5,8 @@
 
 💡 Interested in CTF, algorithms and much more! 
 
+🤟 Favourite langugages Python, Haskell and Java
+
 <!--
 **GitThisJoel/GitThisJoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
