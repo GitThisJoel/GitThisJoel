@@ -1,13 +1,13 @@
 ### Hello there, 
 🎓 I'm currently a computer engineer student at LTH in Lund, Sweden
 
-👨‍💻 At the moment I am working om a weather website 
-
 💡 Interested in CTF, algorithms and much more! 
 
-🤟 Favourite langugages Python, Haskell and Java
+🤟 Favourite langugages Python and C
 
 <!--
+👨‍💻 At the moment I am working om a weather website 
+
 **GitThisJoel/GitThisJoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
