@@ -1,7 +1,7 @@
 ### Hello there, 
 🎓 I'm currently a computer engineer student at LTH in Lund, Sweden
 
-💡 Interested in CTF, algorithms and much more! 
+💡 Interested in CTF, algorithms, AI and much more! 
 
 🤟 Favourite langugages Python and C
 
